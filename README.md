@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ypratikhi&label=Profile%20views&color=0e75b6&style=flat" alt="ypratikhi" /> </p>
 
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **React, JavaScript , Nodejs , Express and MongoDB**
-
 - 📫 How to reach me **ypratikhi@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
