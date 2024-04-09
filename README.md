@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ypratikhi.io)
+
 <h1 align="center">Hi 👋, I'm Pratik Yadav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align='right' alt="coding" width="400"  src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
